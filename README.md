@@ -21,5 +21,7 @@ ve bunların günlük aldığı limon sayısından fiyat ölçümü yapıldı.
 ``` 
 
 8. GIT SCM üzerinden yapılan değişiklikler tekrar onaylandı.
+9. Git remote add origin komutu ile proje Github'a yüklendi.
+
 
 
